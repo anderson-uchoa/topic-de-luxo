@@ -25,3 +25,6 @@ class Topic:
 
     def descer(self, nome):
         return True
+
+    def toString(self):
+        return None
